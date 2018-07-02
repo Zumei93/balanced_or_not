@@ -1,0 +1,7 @@
+﻿  balancedOrNot.cpp
+c:\users\admin\source\repos\balancedornot\balancedornot\balancedornot.cpp(12): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\admin\source\repos\balancedornot\balancedornot\balancedornot.cpp(21): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\admin\source\repos\balancedornot\balancedornot\balancedornot.cpp(22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\admin\source\repos\balancedornot\balancedornot\balancedornot.cpp(29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\admin\source\repos\balancedornot\balancedornot\balancedornot.cpp(73): warning C4018: '>': signed/unsigned mismatch
+  balancedOrNot.vcxproj -> C:\Users\Admin\source\repos\balancedOrNot\x64\Debug\balancedOrNot.exe
